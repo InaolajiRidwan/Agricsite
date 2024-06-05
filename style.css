@@ -1,0 +1,159 @@
+.nav-details {
+    background-image: url(images/farmland.jpeg);
+    background-size: 2000px;
+    height: 200px;
+    background-repeat: no-repeat;
+}
+
+.nav-content img {
+    height: 50px;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+.nav-content ol {
+    display: flex;
+    color: white;
+    padding-top: 10px;
+    margin-left: 700px;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.nav-content h1 {
+    color: rgb(152, 225, 152);
+    text-align: center;
+    font-size: 35px;
+}
+
+.nav-content:hover h1 {
+    color: white;
+}
+.nav-content a {
+    color: white;
+    text-decoration: none;
+}
+.nav-content select {
+    background-color: rgb(11, 213, 11);
+    border-radius: 10px;
+}
+
+header {
+    display: flex;
+}
+
+.header-content {
+    display: grid;
+    margin-left: 20px;
+}
+
+.video-text1 {
+    height: 150px;
+}
+
+.video-text2 {
+    margin-top: -200px;
+}
+.video-real {
+    position: relative;
+}
+
+.video-real video {
+    margin-top: -200px;
+    width: 40vw;
+    height: 90vh;
+    margin-left: 70px;
+    margin-right: 50px;
+}
+
+header:hover h1 {
+    color: rgb(56, 72, 56);
+}
+
+.aside-content2 {
+    margin-left: 40px;
+    border: 1px dotted black;
+}
+
+.aside-content {
+    border: 1px dotted black;
+}
+
+.aside-content p {
+    text-align: center;
+    color: green;
+    text-decoration: underline;
+}
+
+.aside-content h4 {
+    text-align: center;
+}
+
+.aside-content2 h4 {
+    text-align: center;
+}
+
+.aside-content img {
+   margin-left: 15px;
+}
+
+.aside-content2 img {
+    margin-left: 15px;
+}
+
+.aside-content2 p {
+    text-align: center;
+    color: green;
+    text-decoration: underline;
+}
+
+.footer-content {
+    background: rgb(11, 213, 11);
+    height: 150px;
+}
+
+
+.footer-list ol {
+    display: flex;
+    margin-left: 400px;
+}
+
+.footer-list li {
+    margin-left: 50px;
+    font-size: 30px;
+    list-style: none;
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    font-style: italic;
+}
+
+.address {
+    background: rgb(11,213, 11);
+    height: 50px;
+    margin-top: -40px;
+}
+
+.address h5 {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+}
+
+.footer {
+    background: greenyellow;
+    margin-top: -30px;
+    height: 70px;
+}
+
+.footer h2 {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+    color: rgb(64, 54, 54);
+}
+
+
+
+
